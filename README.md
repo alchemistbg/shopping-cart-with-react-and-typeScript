@@ -8,3 +8,8 @@ It uses:
   - and some icons
 - [Styled Components](https://styled-components.com/ "Styled Components")
 - [React Query](https://react-query.tanstack.com "React Query")
+
+TODO's - the code could be optimize a little bit:
+- Reorganize files
+- Reorganize imports
+- ...
